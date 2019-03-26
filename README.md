@@ -1,5 +1,6 @@
 # scientific-computation
 codes writtern for scientific computation lessons
 
-1.1 Runge-Kuta 4th order methods
-1.2 test for 1.1
+rk4:Runge-Kuta 4th order methods
+
+rk4test:test for 1.1
